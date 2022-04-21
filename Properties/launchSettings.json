@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JPG_to_PNG": {
+      "commandName": "Project",
+      "sqlDebugging": false
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2zj/XPk40ZNYXQFRf7ELgNJR7rA0v3W7jhMNPGPPS7Oprk6ls8iQdLpuuQtOSzfh3Cl5mEbXGID/c8cfEUSCLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User1\\Desktop\\4 курс\\Практика\\JPG_to_PNG\\JPG_to_PNG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User1\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\User1\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

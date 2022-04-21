@@ -1,0 +1,88 @@
+C:\Users\User\Desktop\4 курс\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\4 курс\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\4 курс\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\4 курс\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.AssemblyInfo.cs
+C:\Users\User\Desktop\4 курс\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\4 курс\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.genruntimeconfig.cache
+C:\Users\User\Desktop\4 курс\Практика\JPG_to_PNG\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\4 курс\Практика\JPG_to_PNG\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\4 курс\Практика\JPG_to_PNG\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\4 курс\Практика\JPG_to_PNG\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\User\Desktop\4 курс\Практика\JPG_to_PNG\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\User\Desktop\4 курс\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.csproj.CopyComplete
+C:\Users\User\Desktop\4 курс\Практика\JPG_to_PNG\bin\Debug\net5.0\JPGtoPNG.exe
+C:\Users\User\Desktop\4 курс\Практика\JPG_to_PNG\bin\Debug\net5.0\JPGtoPNG.deps.json
+C:\Users\User\Desktop\4 курс\Практика\JPG_to_PNG\bin\Debug\net5.0\JPGtoPNG.runtimeconfig.json
+C:\Users\User\Desktop\4 курс\Практика\JPG_to_PNG\bin\Debug\net5.0\JPGtoPNG.runtimeconfig.dev.json
+C:\Users\User\Desktop\4 курс\Практика\JPG_to_PNG\bin\Debug\net5.0\JPGtoPNG.dll
+C:\Users\User\Desktop\4 курс\Практика\JPG_to_PNG\bin\Debug\net5.0\ref\JPGtoPNG.dll
+C:\Users\User\Desktop\4 курс\Практика\JPG_to_PNG\bin\Debug\net5.0\JPGtoPNG.pdb
+C:\Users\User\Desktop\4 курс\Практика\JPG_to_PNG\obj\Debug\net5.0\JPGtoPNG.dll
+C:\Users\User\Desktop\4 курс\Практика\JPG_to_PNG\obj\Debug\net5.0\ref\JPGtoPNG.dll
+C:\Users\User\Desktop\4 курс\Практика\JPG_to_PNG\obj\Debug\net5.0\JPGtoPNG.pdb
+E:\Практика\JPG_to_PNG\bin\Debug\net5.0\JPGtoPNG.exe
+E:\Практика\JPG_to_PNG\bin\Debug\net5.0\JPGtoPNG.deps.json
+E:\Практика\JPG_to_PNG\bin\Debug\net5.0\JPGtoPNG.runtimeconfig.json
+E:\Практика\JPG_to_PNG\bin\Debug\net5.0\JPGtoPNG.runtimeconfig.dev.json
+E:\Практика\JPG_to_PNG\bin\Debug\net5.0\JPGtoPNG.dll
+E:\Практика\JPG_to_PNG\bin\Debug\net5.0\ref\JPGtoPNG.dll
+E:\Практика\JPG_to_PNG\bin\Debug\net5.0\JPGtoPNG.pdb
+E:\Практика\JPG_to_PNG\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+E:\Практика\JPG_to_PNG\bin\Debug\net5.0\System.Drawing.Common.dll
+E:\Практика\JPG_to_PNG\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Практика\JPG_to_PNG\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\Практика\JPG_to_PNG\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.csproj.AssemblyReference.cache
+E:\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.AssemblyInfoInputs.cache
+E:\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.AssemblyInfo.cs
+E:\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.csproj.CoreCompileInputs.cache
+E:\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.csproj.CopyComplete
+E:\Практика\JPG_to_PNG\obj\Debug\net5.0\JPGtoPNG.dll
+E:\Практика\JPG_to_PNG\obj\Debug\net5.0\ref\JPGtoPNG.dll
+E:\Практика\JPG_to_PNG\obj\Debug\net5.0\JPGtoPNG.pdb
+E:\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.genruntimeconfig.cache
+F:\Практика\JPG_to_PNG\bin\Debug\net5.0\JPGtoPNG.exe
+F:\Практика\JPG_to_PNG\bin\Debug\net5.0\JPGtoPNG.deps.json
+F:\Практика\JPG_to_PNG\bin\Debug\net5.0\JPGtoPNG.runtimeconfig.json
+F:\Практика\JPG_to_PNG\bin\Debug\net5.0\JPGtoPNG.runtimeconfig.dev.json
+F:\Практика\JPG_to_PNG\bin\Debug\net5.0\JPGtoPNG.dll
+F:\Практика\JPG_to_PNG\bin\Debug\net5.0\ref\JPGtoPNG.dll
+F:\Практика\JPG_to_PNG\bin\Debug\net5.0\JPGtoPNG.pdb
+F:\Практика\JPG_to_PNG\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+F:\Практика\JPG_to_PNG\bin\Debug\net5.0\System.Drawing.Common.dll
+F:\Практика\JPG_to_PNG\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+F:\Практика\JPG_to_PNG\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+F:\Практика\JPG_to_PNG\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+F:\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.csproj.AssemblyReference.cache
+F:\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.GeneratedMSBuildEditorConfig.editorconfig
+F:\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.AssemblyInfoInputs.cache
+F:\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.AssemblyInfo.cs
+F:\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.csproj.CoreCompileInputs.cache
+F:\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.csproj.CopyComplete
+F:\Практика\JPG_to_PNG\obj\Debug\net5.0\JPGtoPNG.dll
+F:\Практика\JPG_to_PNG\obj\Debug\net5.0\ref\JPGtoPNG.dll
+F:\Практика\JPG_to_PNG\obj\Debug\net5.0\JPGtoPNG.pdb
+F:\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.genruntimeconfig.cache
+C:\Users\User1\Desktop\4 курс\Практика\JPG_to_PNG\bin\Debug\net5.0\JPGtoPNG.exe
+C:\Users\User1\Desktop\4 курс\Практика\JPG_to_PNG\bin\Debug\net5.0\JPGtoPNG.deps.json
+C:\Users\User1\Desktop\4 курс\Практика\JPG_to_PNG\bin\Debug\net5.0\JPGtoPNG.runtimeconfig.json
+C:\Users\User1\Desktop\4 курс\Практика\JPG_to_PNG\bin\Debug\net5.0\JPGtoPNG.runtimeconfig.dev.json
+C:\Users\User1\Desktop\4 курс\Практика\JPG_to_PNG\bin\Debug\net5.0\JPGtoPNG.dll
+C:\Users\User1\Desktop\4 курс\Практика\JPG_to_PNG\bin\Debug\net5.0\ref\JPGtoPNG.dll
+C:\Users\User1\Desktop\4 курс\Практика\JPG_to_PNG\bin\Debug\net5.0\JPGtoPNG.pdb
+C:\Users\User1\Desktop\4 курс\Практика\JPG_to_PNG\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User1\Desktop\4 курс\Практика\JPG_to_PNG\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\User1\Desktop\4 курс\Практика\JPG_to_PNG\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\User1\Desktop\4 курс\Практика\JPG_to_PNG\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\User1\Desktop\4 курс\Практика\JPG_to_PNG\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\User1\Desktop\4 курс\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\4 курс\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\4 курс\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\4 курс\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.AssemblyInfo.cs
+C:\Users\User1\Desktop\4 курс\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\4 курс\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.csproj.CopyComplete
+C:\Users\User1\Desktop\4 курс\Практика\JPG_to_PNG\obj\Debug\net5.0\JPGtoPNG.dll
+C:\Users\User1\Desktop\4 курс\Практика\JPG_to_PNG\obj\Debug\net5.0\ref\JPGtoPNG.dll
+C:\Users\User1\Desktop\4 курс\Практика\JPG_to_PNG\obj\Debug\net5.0\JPGtoPNG.pdb
+C:\Users\User1\Desktop\4 курс\Практика\JPG_to_PNG\obj\Debug\net5.0\JPG_to_PNG.genruntimeconfig.cache
